@@ -1,10 +1,11 @@
-# Welcome to MHIM Handbook v1.0
+# MHIM Handbook
 
 
 ## Getting Started
 
 ```bash
-This is an attempt at making the first few baby steps to MHIM less difficult. 
+This is to make our lives as residents in the Internal Medicine Program easier. Everyone is welcome to use this resource. 
+We welcome any comment or feedback in improving this handbook. 
 
 I pray it helps someone.
 
@@ -14,4 +15,4 @@ I pray it helps someone.
 ## How to Use the Book
 
 ## Acknowledgments
-Samuel Mensah, PGY-1 resident
+Residents and Chief Residents 2022-2023
