@@ -4,10 +4,10 @@ site_url: https://www.mhimhandbook.com
 
 Copyright: 
 All materials used in this book are appropriately referenced. 
-
 nav:
   - Home: index.md
   - docs_dir: 'docs' 
+   
   - Cardiovascular Medicine: Cardiovascular Medicine.md
   - Endocrinology and Metabolism: Endocrinology and Metabolism.md 
   - Gastroenterology: Gastroenterology.md
@@ -21,7 +21,6 @@ nav:
 
 theme: 
   name: readthedocs
-
 palette:
  - scheme: default
   primary: black
