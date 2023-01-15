@@ -19,7 +19,7 @@ nav:
   - Rheumatology: Rheumatology.md 
 
 theme: 
-  name: material
+  name: readthedocs
 
 palette:
  - scheme: default
