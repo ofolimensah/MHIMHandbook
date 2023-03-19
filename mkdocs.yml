@@ -1,9 +1,8 @@
-
 site_name: MHIM Handbook 
 site_url: https://www.mhimhandbook.com
 
-Copyright: 
-All materials used in this book are appropriately referenced. 
+Copyright: All materials used in this book are appropriately referenced. 
+
 nav:
   - Home: index.md
   - docs_dir: 'docs' 
