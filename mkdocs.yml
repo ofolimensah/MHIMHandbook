@@ -22,10 +22,4 @@ nav:
   
 theme: 
   name: readthedocs
-palette:
- - scheme: default
-  primary: black
-  accent: amber
-  toggle:
-    icon: material/toggle-switch-off-outline
-    name: Switch to dark mode
+
