@@ -5,9 +5,12 @@ We welcome any comment or feedback in improving this handbook.
 
 I pray it helps someone.
 
-## How to Use the Book
+## How to Use 
 
 
 
 ## Acknowledgments
-Residents and Chief Residents 2022-2023
+Interns, Residents and Junior Faculty 
+Internal Medicine Residency 
+Medstar Health, Baltimore
+2022-2023
