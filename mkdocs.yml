@@ -3,7 +3,6 @@ site_url: https://www.mhimhandbook.com
 
 nav:
   - Home: index.md
-  - docs_dir: 'docs' 
    
   - Cardiovascular Medicine: Cardiovascular Medicine.md
   - Endocrinology and Metabolism: Endocrinology and Metabolism.md 
