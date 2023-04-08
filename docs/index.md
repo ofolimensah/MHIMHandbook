@@ -6,8 +6,7 @@ We welcome any comment or feedback in improving this handbook.
 I pray it helps someone.
 
 ## How to Use 
-
-
+Will have to bookmark this site on your phone
 
 ## Acknowledgments
 Interns, Residents and Junior Faculty 
