@@ -2,11 +2,7 @@
 
 
 ## Chest pain
-There are many ways of going having chest pain
- Trying to update the works for easy transfer unto the page. 
-
-
-
+This is the new documentation that we want to see on the site
 
 
 

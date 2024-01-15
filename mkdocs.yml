@@ -1,12 +1,8 @@
-
 site_name: MHIM Handbook 
 site_url: https://www.mhimhandbook.com
 
-Copyright: 
-All materials used in this book are appropriately referenced. 
 nav:
   - Home: index.md
-  - docs_dir: 'docs' 
    
   - Cardiovascular Medicine: Cardiovascular Medicine.md
   - Endocrinology and Metabolism: Endocrinology and Metabolism.md 
@@ -14,6 +10,7 @@ nav:
   - General Internal Medicine: General Internal Medicine.md 
   - Hematology: Hematology.md 
   - Infectious disease: Infectious Disease.md 
+  - Interns Corner: Interns Corner.md
   - Neurology: Neurology.md
   - Oncology: Oncology.md 
   - Pulmonary and Critical Medicine: Pulmonary and Critical Care Medicine.md 
@@ -21,10 +18,4 @@ nav:
   
 theme: 
   name: readthedocs
-palette:
- - scheme: default
-  primary: black
-  accent: amber
-  toggle:
-    icon: material/toggle-switch-off-outline
-    name: Switch to dark mode
+
